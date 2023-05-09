@@ -25,7 +25,7 @@ This is the VBA script which can run on all sheets successfully.
 
 How do you run the code?
 
-Please run the Module 2 - Challenge - Sub WorkBookLoop(), and it will run call the other macros and run them accordingly.
+Please run the Module 2 - Challenge - Sub WorkBookLoop(), and it will call the other macros and run them accordingly.
 
 Sceenshots:
 
