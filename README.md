@@ -29,7 +29,7 @@ Please run the Module 2 - Challenge - Sub WorkBookLoop(), and it will call the o
 
 Sceenshots:
 
-I took screenshots for the Ticker, Percentage and Total Volume of each year, as well as the greatest percentage increase/decrease and total volume for each year, hence you'll see 2 screenshots of my results. 
+I took screenshots for the Ticker, Percentage and Total Volume of each year, as well as the greatest percentage increase/decrease and total volume for each year, hence you'll see 2 screenshots of my results for each year. View my screenshots in the  Results - Screenshot folder. 
 
 
 
